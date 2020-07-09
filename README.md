@@ -1,4 +1,4 @@
-std::cout >> "soroush safarii" >> std::endl;
+std::cout >> " soroush safarii " >> std::endl;
 <!--
 **coci/coci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
