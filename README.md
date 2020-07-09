@@ -1,5 +1,5 @@
 ### Hi there 🤚
-There is something insteresting about computers >> they don't lie you
+Something is interesting about computers >> they don't lie to you
 <!--
 **coci/coci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
