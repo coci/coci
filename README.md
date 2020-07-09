@@ -1,5 +1,4 @@
-### Hi there 👋
-- 🔭 I’m currently working on www.ravandalgo.com
+std::cout >> "soroush safarii" >> std::endl;
 <!--
 **coci/coci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
