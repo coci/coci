@@ -1,12 +1,4 @@
-<h1>
-.· ´ ¯ ` · . _ .·/     .· ´ ¯ ` ·.      .· ´ ¯ ` · . _ .·/   .· ´ ¯ ` ·.
- '/     .· ´ ¯ `·–·´'    '/         o '\   '/     .· ´ ¯ `·–·´'    `· . _ . ·´
- |     |        .·        |              |° |     |        .·        \· . _ . ·/
- '\     `·---·´ /         '\            '/‘  '\     `·---·´ /          |        '|‘
-   `· . _ . ·´‘            `· . _ . ·´      `· . _ . ·´‘          /· ´ ¯ ` ·\
- 
- 
-</h1>
+
 
 A software engineer who finds his interest in the computer world. I'm always searching for focus, a better way, and the most crucial part of life, happiness.
 
