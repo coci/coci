@@ -1,4 +1,4 @@
-<img src="http://www.scholarpedia.org/w/images/4/4e/Game-of-life_Pentomino.gif" width="200" height="300" />
+<img src="http://www.scholarpedia.org/w/images/4/4e/Game-of-life_Pentomino.gif" width="400" height="200" />
 
 
 BTC : bc1qqf3ylrulskcc9trkwn8q9cpad9wquwmncy6w4p
