@@ -1,7 +1,7 @@
  ![Alt text](http://www.scholarpedia.org/w/images/4/4e/Game-of-life_Pentomino.gif)
 
-A software engineer who finds his interest in the computer world. I'm always searching for focus, a better way, and the most crucial part of life, happiness.
 
+<img src="http://www.scholarpedia.org/w/images/4/4e/Game-of-life_Pentomino.gif" width="40" height="40" />
 
 BTC : bc1qqf3ylrulskcc9trkwn8q9cpad9wquwmncy6w4p
 
