@@ -1,7 +1,7 @@
  ![Alt text](http://www.scholarpedia.org/w/images/4/4e/Game-of-life_Pentomino.gif)
 
 
-<img src="http://www.scholarpedia.org/w/images/4/4e/Game-of-life_Pentomino.gif" width="40" height="40" />
+<img src="http://www.scholarpedia.org/w/images/4/4e/Game-of-life_Pentomino.gif" width="40" height="40" class="center">
 
 BTC : bc1qqf3ylrulskcc9trkwn8q9cpad9wquwmncy6w4p
 
