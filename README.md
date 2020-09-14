@@ -1,4 +1,4 @@
-
+ ![Alt text](http://www.scholarpedia.org/w/images/4/4e/Game-of-life_Pentomino.gif)
 
 A software engineer who finds his interest in the computer world. I'm always searching for focus, a better way, and the most crucial part of life, happiness.
 
