@@ -1,15 +1,13 @@
+<h1>
+.· ´ ¯ ` · . _ .·/     .· ´ ¯ ` ·.      .· ´ ¯ ` · . _ .·/   .· ´ ¯ ` ·.
+ '/     .· ´ ¯ `·–·´'    '/         o '\   '/     .· ´ ¯ `·–·´'    `· . _ . ·´
+ |     |        .·        |              |° |     |        .·        \· . _ . ·/
+ '\     `·---·´ /         '\            '/‘  '\     `·---·´ /          |        '|‘
+   `· . _ . ·´‘            `· . _ . ·´      `· . _ . ·´‘          /· ´ ¯ ` ·\
+ 
+ 
+</h1>
 
-                                     88  
-                                     ""  
-                                         
- ,adPPYba,   ,adPPYba,    ,adPPYba,  88  
-a8"     ""  a8"     "8a  a8"     ""  88  
-8b          8b       d8  8b          88  
-"8a,   ,aa  "8a,   ,a8"  "8a,   ,aa  88  
- `"Ybbd8"'   `"YbbdP"'    `"Ybbd8"'  88
- 
- 
- 
 A software engineer who finds his interest in the computer world. I'm always searching for focus, a better way, and the most crucial part of life, happiness.
 
 
