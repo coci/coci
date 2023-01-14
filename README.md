@@ -1,5 +1,4 @@
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=coci&show_icons=true&locale=en&include_all_commits=true" alt="coci">
+I’m a self-taught software engineer who is passionate about constantly learning to know about how everything works under the hood.
 
 donation : [Donate me](https://pitopay.com/pos/krouky)
 
